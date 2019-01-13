@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-<a href="i.html">another page</a>
+<a href="i.html">freaking</a>
 </body>
 </html>
 
